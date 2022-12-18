@@ -1,8 +1,6 @@
 #include <Foundation/Foundation.h>
 #include <UIKit/UIKit.h>
 
-#import "./headers/RCTBridge.h"
-#import "./headers/RCTRootView.h"
 #import "./headers/RCTCxxBridge.h"
 #import "./headers/UIKeyboard.h"
 #import "./headers/DCD.h"
