@@ -1,0 +1,9 @@
+Package: me.eternal.discolor
+Name: Discolor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: AMOLED for Discord with no performance impact.
+Maintainer: eternal
+Author: eternal
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

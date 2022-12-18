@@ -1,0 +1,2 @@
+@interface DCDUploadProgressView : UIView
+@end
